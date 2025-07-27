@@ -1,6 +1,6 @@
 # blinkit
 
-![Project Banner](https://www.google.com/imgres?q=blinkit%20products%20in%20jpg&imgurl=https%3A%2F%2Fbsmedia.business-standard.com%2F_media%2Fbs%2Fimg%2Farticle%2F2022-03%2F15%2Ffull%2F1647368515-3226.jpg%3Fim%3DFitAndFill%3D(826%2C465)&imgrefurl=https%3A%2F%2Fwww.business-standard.com%2Fcompanies%2Fnews%2Fblinkit-switch-to-inventory-ownership-to-improve-margins-expand-assortment-125072101552_1.html&docid=we2UvYHDoV50zM&tbnid=ExQjSJw79ZRY8M&vet=12ahUKEwjl_dS66dyOAxWzzjgGHTf7IXQQM3oECB4QAA..i&w=826&h=465&hcb=2&ved=2ahUKEwjl_dS66dyOAxWzzjgGHTf7IXQQM3oECB4QAA) 
+
 *You can replace this placeholder image URL with an actual banner image for your project.*
 
 ## 🌟 Overview
