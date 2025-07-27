@@ -1,6 +1,6 @@
 # blinkit
 
-![Project Banner](https://via.placeholder.com/1200x400?text=blinkit+Project+Banner) 
+![Project Banner]([https://via.placeholder.com/1200x400?text=blinkit+Project+Banner](https://www.google.com/imgres?q=blinkit%20products&imgurl=https%3A%2F%2Fstartupstorymedia.com%2Fwp-content%2Fuploads%2F2024%2F10%2FSAVE_20241021_191028.jpg&imgrefurl=https%3A%2F%2Fstartupstorymedia.com%2Finsights-blinkit-to-launch-30-minute-deliveries-establish-express-dark-stores-to-compete-with-amazon-flipkart%2F&docid=gKIrw00Q9UwSPM&tbnid=h7q7KnJ8ctE9PM&vet=12ahUKEwihjMPK5tyOAxVscGwGHZxoCPIQM3oECHsQAA..i&w=730&h=400&hcb=2&ved=2ahUKEwihjMPK5tyOAxVscGwGHZxoCPIQM3oECHsQAA)) 
 *You can replace this placeholder image URL with an actual banner image for your project.*
 
 ## 🌟 Overview
